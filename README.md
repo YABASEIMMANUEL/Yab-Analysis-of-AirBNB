@@ -1,6 +1,6 @@
 # Airbnb Data Analysis and Visualization
 
-Application Link : https://yab-airbnb-analysis.streamlit.app/
+Application Link : https://yab-analysis-of-airbnb.streamlit.app/
 
 Demo dataset     : https://github.com/YABASEIMMANUEL/Yab-Analysis-of-AirBNB/blob/main/Dataset
 ## Overview
