@@ -1,7 +1,8 @@
 # Airbnb Data Analysis and Visualization
 
--Application Link : https://yab-airbnb-analysis.streamlit.app/
--Demo dataset     : https://github.com/YABASEIMMANUEL/Yab-Analysis-of-AirBNB/blob/main/Dataset
+Application Link : https://yab-airbnb-analysis.streamlit.app/
+
+Demo dataset     : https://github.com/YABASEIMMANUEL/Yab-Analysis-of-AirBNB/blob/main/Dataset
 ## Overview
 
 The **Airbnb Data Analysis and Visualization** project is an extensive effort focused on data exploration and presentation. This project encompasses data collection, preprocessing, ETL (Extract, Transform, Load) operations, and the development of an interactive Streamlit user interface. Its primary goal is to deliver insights and make Airbnb data more comprehensible and accessible.
